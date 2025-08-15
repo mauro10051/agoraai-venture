@@ -56,7 +56,7 @@ AgoraAI Venture – Versione 1.00
 
 ## 📎 Approfondimenti
 
-📄 [Scarica la presentazione PDF](docs/presentazione.pdf) *(caricare il file nella cartella `docs` del repository)*
+📄 [Scarica la presentazione PDF](docs/presentazione_agoraai_venture.pdf) *(caricare il file nella cartella `docs` del repository)*
 
 ---
 
