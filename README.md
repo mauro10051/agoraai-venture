@@ -1,48 +1,69 @@
-# AgoraAI_Venture
+# AgoraAI Venture
 
-AgoraAI_Venture is an innovative framework for collaborative project design and strategic planning, powered by AI-driven multi-agent interaction.  
-It empowers entrepreneurs, analysts, and innovators to build feasibility studies, business plans, and decision-making documents through an iterative, guided process.
+**AgoraAI Venture** è un’applicazione **AI-based** progettata per supportare imprenditori, professionisti, pubbliche amministrazioni e decisori nello sviluppo di **piani di fattibilità**, **business plan** e **analisi strategiche territoriali**.
 
-## 🚀 Key Features
+---
 
-- **AI Multi-Agent Architecture** – Specialized agents with distinct expertise (strategy, sociology, engineering, finance) work together to produce coherent and actionable plans.
-- **Interactive Guidance** – The "Pol" agent acts as a tutor, guiding users through missing information and helping refine the core "Main Question."
-- **Feasibility Analysis** – Generates structured feasibility reports, complete with risk assessment, economic indicators, and actionable recommendations.
-- **Scalable Application** – Can be adapted to multiple project domains, from small local businesses to large-scale industrial or territorial development.
-- **Knowledge-Driven Queries** – Integrated with online data retrieval for updated market prices, trends, and regulations.
+## 🚀 Caratteristiche principali
 
-## 📂 Project Structure
+- **Applicazione multi-agente** unica nel suo genere: ogni agente AI ha competenze specifiche e collabora in modo interattivo per costruire documenti **realmente centrati sulle esigenze del cliente**.
+- **Esecuzione in locale**: nessuna connessione a internet necessaria, garantendo privacy e riservatezza dei dati.
+- **Qualità professionale**: output strutturati e pronti per essere presentati a stakeholder e investitori.
+- **Modalità Light**: genera un piano di fattibilità in circa **12 minuti**.
+- **Ampia versatilità**: in grado di elaborare documenti per **qualsiasi tipo di progetto**, sia di natura tecnica/hard che procedurale.
+- **Interattività**: costruzione passo-passo del documento, con possibilità di affinare ogni sezione durante il processo.
+- **Uso trasparente e inclusivo**: utilizzo personale libero; per uso commerciale è richiesto contatto diretto con il team.
 
-1. **Feasibility Study** – Step-by-step guided process to define core project parameters.
-2. **Business Plan Generation** – Consolidation of strategic, technical, and financial perspectives.
-3. **Final Evaluation** – Clear, user-friendly feasibility verdict with main risks and conditions.
-4. **Export Options** – Produce structured PDF and HTML reports for sharing.
+---
 
-## 🛠 Installation & Usage
+## 📌 Pubblico di riferimento
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/AgoraAI_Venture.git
-   cd AgoraAI_Venture
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the interactive pipeline:
-   ```bash
-   python main.py
-   ```
-4. Follow the guided prompts to define your project and generate the final report.
+- Imprenditori e startup
+- Consulenti aziendali
+- Enti pubblici e amministrazioni locali
+- Associazioni e ONG
+- Professionisti del project management
+- Ricercatori e analisti territoriali
 
-## 📄 Documentation
+---
 
-A full PDF presentation of the project is available here:  
-[📥 Download AgoraAI_Venture Presentation](./AgoraAI_Venture_Presentation.pdf)
+## 📂 Formati generati
 
-## 📜 License
+- **Piano di fattibilità**
+- **Business plan**
+- **Analisi SWOT**
+- **Analisi di scenario**
+- **Indicatori strategici e di sostenibilità**
 
-This project is released under the MIT License – see the [LICENSE](./LICENSE) file for details.
+---
+
+## 📄 Licenza
+
+Questo progetto è rilasciato sotto la licenza  
+**Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**  
+[Licenza ufficiale](https://creativecommons.org/licenses/by-nc/4.0/)
+
+AgoraAI Venture – Versione 1.00
+
+---
+
+## 📬 Contatti e Supporto
+
+- **GitHub Repository**: [https://github.com/mauro10051/agoraai-venture](https://github.com/mauro10051/agoraai-venture)
+- **Segnala un problema**: utilizzare la sezione [Issues](https://github.com/mauro10051/agoraai-venture/issues) del repository
+
+---
+
+## 📎 Approfondimenti
+
+📄 [Scarica la presentazione PDF](docs/presentazione.pdf) *(caricare il file nella cartella `docs` del repository)*
+
+---
+
+## 📆 Distribuzione
+
+La versione eseguibile (**.exe**) sarà disponibile a partire da **Settembre**.  
+Non è richiesta alcuna installazione di ambienti Python o librerie aggiuntive: basta scaricare, avviare e iniziare a generare i tuoi documenti professionali.
 
 ---
 
